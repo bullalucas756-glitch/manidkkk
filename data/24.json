@@ -1,0 +1,17 @@
+{
+    "id": 107805281,
+    "name": "Slaughterhouse",
+    "creators": ["icedcave"],
+    "verifier": "Doggie",
+    "verification": "https://youtu.be/kpcF1-QAHQc?si=pdkiBLvKjIinY6s9",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "D3fau1t",
+            "link": "https://www.youtube.com/watch?v=30GxX7ahCN8",
+            "percent": 100,
+            "hz": 240
+        }
+    ],
+    "tags": ["THE GATES HAVE OPENED ONCE AGAIN."]
+}
