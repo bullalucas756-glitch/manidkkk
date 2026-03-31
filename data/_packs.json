@@ -39,5 +39,29 @@
         "name": "Pro",
         "levels": ["Orbit"],
         "color": "#ff0000"
+    },
+
+    {
+        "name": "Pro",
+        "levels": ["Quanteuse processing"],
+        "color": "#ff0000"
+    },
+    
+    {
+        "name": "Pro",
+        "levels": ["BOOBAWAMBA"],
+        "color": "#ff0000"
+    },
+
+    {
+        "name": "Pro",
+        "levels": ["Every End"],
+        "color": "#ff0000"
+    },
+
+    {
+        "name": "Pro",
+        "levels": ["andromeda"],
+        "color": "#ff0000"
     }
 ]
